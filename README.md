@@ -26,7 +26,6 @@ As a Full-Stack Developer with 4 years and 5 months of experience, I'm pretty go
   <br>![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 - Multi Chat Service Mobile Application
   <br>![React](https://img.shields.io/badge/-React%20native-000?&logo=react)
-  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
   ![MySql](https://img.shields.io/badge/-MySql-000?&logo=mysql)
 - Multi Chat Service Web Application

@@ -17,3 +17,4 @@ As a Full-Stack Developer with 4 years and 5 months of experience, I'm pretty go
 </p>
 
 # Projects
+⏳ Awaiting update

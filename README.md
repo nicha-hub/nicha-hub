@@ -1,5 +1,6 @@
 # Hi, I'm Nicha 👋
 <span style="color: inherit; text-decoration: none;">[<img src="https://img.shields.io/badge/Facebook-1E90FF?logo=facebook&logoColor=white&labelColor=1E90FF"/>](https://www.facebook.com/guploy.dekhear)</span>
+<span style="color: inherit; text-decoration: none;">[<img src="https://img.shields.io/badge/Line-06C755?logo=line&logoColor=white&labelColor=06C755"/>](line://ti/p/naruto441)</span>
 <span style="color: inherit; text-decoration: none;">[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue"/>](https://www.linkedin.com/in/nicha-kaewrod-a2288631a)</span>
 <span style="color: inherit; text-decoration: none;">[<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&labelColor=red"/>](mailto:nicha.kaewrod@gmail.com)</span>
 

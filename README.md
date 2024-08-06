@@ -16,5 +16,50 @@ As a Full-Stack Developer with 4 years and 5 months of experience, I'm pretty go
   </a>
 </p>
 
-# Projects
-⏳ Awaiting update
+# Past Projects
+- Financial Planning Web Application
+  <br>![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
+  ![MySql](https://img.shields.io/badge/-MySql-000?&logo=mysql)
+- Food Ordering Mobile Application
+  <br>![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
+- Multi Chat Service Mobile Application
+  <br>![React](https://img.shields.io/badge/-React%20native-000?&logo=react)
+  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![MySql](https://img.shields.io/badge/-MySql-000?&logo=mysql)
+- Multi Chat Service Web Application
+  <br>![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![Js](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+  ![MySql](https://img.shields.io/badge/-MySql-000?&logo=mysql)
+- Real Estate Agency Internal Management Web Application
+  <br>![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+  ![Js](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+  ![MySql](https://img.shields.io/badge/-MySql-000?&logo=mysql)
+- Warehouse Management Web Application
+  <br>![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![Js](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+  ![MySql](https://img.shields.io/badge/-MySql-000?&logo=mysql)
+- Web Application For Franchise Product Sales System
+  <br>![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![Js](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+  ![MySql](https://img.shields.io/badge/-MySql-000?&logo=mysql)
+- Web Application For Human Resource Management System
+  <br>![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![Js](https://img.shields.io/badge/-Javascript-000?&logo=javascript)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+  ![MySql](https://img.shields.io/badge/-MySql-000?&logo=mysql)
